@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://macknifiedai.github.io/evangelism-training-dashboard/sitemap.xml
